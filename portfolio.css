@@ -46,9 +46,14 @@ a.active,a:hover{
   cursor: pointer;
   display: none;
 }
+.container{
+  background-color: #1b9bff;
+}
 .jumbotron ul li{
 font-size: 30px;
 font-family: 'Kaushan Script' , cursive;
+font-weight: 700;
+
 }
 .jumbotron h2{
   font-size: 50px;
