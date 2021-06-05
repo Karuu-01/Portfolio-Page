@@ -1,4 +1,4 @@
-# Porfolio-Page
+# Portfolio-Page
 ## Author
 Brian Karu
 ### Description
