@@ -22,4 +22,4 @@ To access this project on your local files, you can clone it using these steps
 ### Live Site
 View [Live] ( https://github.com/Karuu-01/Portfolio-Page.git)
 ### Licence
-This project is under the  [MIT](license) licsense
+This project is under the  [MIT](license) license
