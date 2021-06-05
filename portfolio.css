@@ -3,7 +3,6 @@
   padding: 0;
   text-decoration: none;
   box-sizing: border-box;
-  line-height: 0;
 }
 label.logo{
   color: black;
@@ -30,7 +29,7 @@ nav ul li{
 nav ul li a{
   color: black;
   font-size: 20px;
-  font-family: 'Kaushan Script', cursive; ;
+  font-family: 'Kaushan Script', cursive;
   padding: 7px 13px;
   text-transform: uppercase;
 }
@@ -46,4 +45,8 @@ a.active,a:hover{
   margin: 40px;
   cursor: pointer;
   display: none;
+}
+.jumbotron ul li{
+font-size: 30px;
+font-family: 'Kaushan Script' , cursive;
 }
