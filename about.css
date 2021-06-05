@@ -1,6 +1,68 @@
 *{
-  margin: 0;
-  padding: 0;
-  line-height: 0;
   box-sizing: border-box;
+}
+label.logo{
+  color: black;
+  font-family: 'Kaushan Script', cursive;;
+  font-size: 35px;
+  line-height: 80px;
+  padding: 0 100px;
+  font-weight: bold;
+}
+nav{
+  background-color:honeydew;
+  height: 80px;
+  width: 100%;
+}
+nav ul{
+  float: right;
+  margin-right: 20px;
+}
+nav ul li{
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 5px;
+}
+nav ul li a{
+  color: black;
+  font-size: 20px;
+  font-family: 'Kaushan Script', cursive; ;
+  padding: 7px 13px;
+  text-transform: uppercase;
+}
+a.active,a:hover{
+  background: #1b9bff;
+  transition: .5s;
+}
+.checkbtn{
+  font-size: 30px;
+  color: white;
+  float: right;
+  line-height: 80px;
+  margin: 40px;
+  cursor: pointer;
+  display: none;
+}
+.myself{
+  background-color:white;
+}
+#img{
+  padding-left: 15.5em ;
+  position: absolute;
+  bottom: 7em;
+}
+#img h2{
+  font-family: 'Kaushan Script', cursive ;
+  font-size: 40px;
+  padding-left: 70px;
+}
+.content-area{
+  background-color: gray;
+  font-size: 20px;
+  width: 600px;
+  line-height: 25px;
+  font-family: 'Kaushan Script' , cursive;
+  position: absolute;
+  left: 860px;
+  top: 130px;
 }
