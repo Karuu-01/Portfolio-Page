@@ -10,7 +10,7 @@ label.logo{
   font-weight: bold;
 }
 nav{
-  background-color:honeydew;
+  background-color:lightseagreen;
   height: 80px;
   width: 100%;
 }
@@ -57,7 +57,7 @@ a.active,a:hover{
   padding-left: 70px;
 }
 .content-area{
-  background-color: gray;
+  background-color:lightblue;
   font-size: 20px;
   width: 600px;
   line-height: 25px;
