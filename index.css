@@ -51,9 +51,9 @@ a.active,a:hover{
   font-family: 'Kaushan Script', cursive;
   font-size: 80px;
   text-align: center;
-  margin-top: -300px;
-  margin-left: 8em;
-  color: aliceblue;
+  margin-top: -450px ;
+  margin-left: 4em;
+  color:azure;
   font-weight: 900;
 }
 .name h2{
@@ -62,7 +62,7 @@ a.active,a:hover{
   font-family:  'Kaushan Script', cursive;
   margin-top: 130px;
   margin-left: 8em;
-  color: white;
+  color: skyblue;
   font-weight: 900;
 }
 .button{
@@ -73,8 +73,16 @@ a.active,a:hover{
   font-family: 'Kaushan Script', cursive ;
   margin-top: 80px;
   margin-left: 38em;
-  border: 5px solid wheat;
+  border: 5px solid burlywood;
   border-radius: 2em;
+}
+.name h3{
+  font-size: 35px;
+  font-style: italic;
+  padding-left: 26em;
+  padding-top: 30px;
+  color: #333;
+  font-family: 'Kaushan Script' , cursive;
 }
 .button:hover{
   color: #333;
